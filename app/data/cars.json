@@ -1,0 +1,8 @@
+{
+  "SUV": [
+    { "model": "XUV Pro", "features": ["Sunroof", "ADAS"] }
+  ],
+  "Sedan": [
+    { "model": "Sedan Plus", "features": ["Leather Seats"] }
+  ]
+}

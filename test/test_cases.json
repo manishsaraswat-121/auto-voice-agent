@@ -1,0 +1,17 @@
+[
+  {
+    "id": "TC_001",
+    "input": "I want to book a test drive for an SUV tomorrow at 11 AM",
+    "expected_intent": "BOOK_TEST_DRIVE"
+  },
+  {
+    "id": "TC_003",
+    "input": "I want to book a test drive for a sedan",
+    "expected_missing_slots": ["date", "time"]
+  },
+  {
+    "id": "TC_006",
+    "input": "I want to buy car insurance",
+    "expected_intent": "UNKNOWN"
+  }
+]
